@@ -86,12 +86,13 @@ Contributions, issues, and feature requests are welcome! Feel free to open an is
 
 # Screenshots of the project output are given below:
 
-<img width="442" height="213" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/7bc6a454-c8a8-4754-bf1d-75b1794bdbbd" />
-<img width="447" height="239" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/c75796c2-e03a-4571-821f-07028ff54e8a" />
-<img width="699" height="147" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/e1e5903b-43ea-4933-a7a9-d63b5f103203" />
-<img width="368" height="161" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/6c499154-2d9e-4a97-b093-025f595a7568" />
-<img width="490" height="88" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/29a76faa-68a4-4861-87f6-6607beb8f4aa" />
-<img width="409" height="182" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/1191d8cc-b96a-4160-92a2-845569add699" />
-<img width="404" height="181" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/311da2b6-f72d-494a-84fb-741ba78c7be2" />
+<img width="447" height="239" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/f7adc18d-6b6a-49eb-99fc-96c0e8382de4" />
+<img width="442" height="213" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/bda08186-009f-4fcf-9b4f-0d66acb7bdf9" />
+<img width="404" height="181" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/1e086df9-3125-4fb8-bb9b-310cdc0f1eda" />
+<img width="409" height="182" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/7e7e8aad-2e1f-457b-89ff-ad59f769c291" />
+<img width="490" height="88" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/ac5ce5c9-0385-4f87-8b6e-ca53caadc560" />
+<img width="368" height="161" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/6e793236-b072-413f-94c6-4aed37f6d6d3" />
+<img width="699" height="147" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/643f01ef-7631-44ba-8caa-709941b32b1c" />
+
 
 
